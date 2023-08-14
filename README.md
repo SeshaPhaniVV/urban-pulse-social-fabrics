@@ -6,7 +6,7 @@ This project builds on two previous studies, one focused on the concept of ”[u
 of interest (POIs) to understand the social fabrics of urban areas [POI](http://urban-computing.com/urbcomp2022/file/UrbComp2022_paper_6824.pdf).
 
 
-Please find the complete report on this project [here](final_report.pdf)
+# Please find the complete report on this project [here](final_report.pdf)
 
 ## Deployment Details using Amazon EC2 and Certbot
 
